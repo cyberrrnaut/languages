@@ -1,2 +1,2 @@
-# javascriptcn
+# languages
 code repo for javascript learning
